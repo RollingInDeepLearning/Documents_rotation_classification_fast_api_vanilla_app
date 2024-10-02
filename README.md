@@ -1,0 +1,1 @@
+# Documents_rotation_classification_fast_api_vanilla_app
